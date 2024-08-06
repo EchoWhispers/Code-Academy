@@ -1,0 +1,1 @@
+print(f"Average: {number_sum / number_len if number_len > 0 else 0}")
