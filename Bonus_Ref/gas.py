@@ -43,9 +43,3 @@ def students():
 print(students())
 
 
-#print(sum_of_grades)
-#You can then easily get averages by using sum() and len() built-in functions
-# Example of sum and len:
-# list = [1,3,5]
-# average = sum(list) / len(list) # 9 / 3
-

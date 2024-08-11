@@ -32,12 +32,13 @@ while i < num_students:
         print("You have entered Chemistry grade:", grade3)
 
 
-    students[name] = {"grade1": grade1, "grade2": grade2, "grade3": grade3}
+    students[name] = {"Math": grade1, "English": grade2, "Chemistry": grade3}
     i += 1
 for name, grades in students.items():
     sum_of_grades = sum(grades.values())
-    average = sum_of_grades / len(grades)
+    average = round(sum_of_grades / len(grades), ndigits=2)
     print(f"Average grade for all subjects for {name}: is {average}")
+print(students)
 
 
 
