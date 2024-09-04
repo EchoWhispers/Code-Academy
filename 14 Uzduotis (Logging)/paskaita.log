@@ -1,0 +1,45 @@
+26/Aug/24 22:49:53|1 Uzduotis.py |24| Prasideda programa
+26/Aug/24 22:49:53|1 Uzduotis.py |26| Atliekamas veiksas 1 + 2
+26/Aug/24 22:49:53|1 Uzduotis.py |31|  a kitamasis 2
+26/Aug/24 22:49:53|1 Uzduotis.py |32|  b kitamasis 3
+26/Aug/24 22:49:53|1 Uzduotis.py |34| Baigiasi programa
+26/Aug/24 22:51:36|1 Uzduotis.py |24| Prasideda programa
+26/Aug/24 22:51:36|1 Uzduotis.py |26| Atliekamas veiksas 1 + 2
+26/Aug/24 22:51:36|1 Uzduotis.py |31|  a kitamasis 2
+26/Aug/24 22:51:36|1 Uzduotis.py |32|  b kitamasis 3
+26/Aug/24 22:51:36|1 Uzduotis.py |34| Baigiasi programa
+26/Aug/24 22:51:44|1 Uzduotis.py |24| Prasideda programa
+26/Aug/24 22:51:44|1 Uzduotis.py |26| Atliekamas veiksas 1 + 2
+26/Aug/24 22:51:44|1 Uzduotis.py |31|  a kitamasis 2
+26/Aug/24 22:51:44|1 Uzduotis.py |32|  b kitamasis 3
+26/Aug/24 22:51:44|1 Uzduotis.py |34| Baigiasi programa
+ERROR | 26/Aug/24 23:01:22|1 Uzduotis.py |41| Dalyba is nulio
+INFO | 26/Aug/24 23:02:42|1 Uzduotis.py |25| Prasideda programa
+WARNING | 26/Aug/24 23:02:42|1 Uzduotis.py |27| Atliekamas veiksas 1 + 2
+DEBUG | 26/Aug/24 23:02:42|1 Uzduotis.py |32|  a kitamasis 2
+DEBUG | 26/Aug/24 23:02:42|1 Uzduotis.py |33|  b kitamasis 3
+INFO | 26/Aug/24 23:02:42|1 Uzduotis.py |35| Baigiasi programa
+ERROR | 26/Aug/24 23:02:42|1 Uzduotis.py |42| Dalyba is nulio
+INFO | 26/Aug/24 23:04:48|1 Uzduotis.py |25| Prasideda programa
+WARNING | 26/Aug/24 23:04:48|1 Uzduotis.py |27| Atliekamas veiksas 1 + 2
+DEBUG | 26/Aug/24 23:04:48|1 Uzduotis.py |32|  a kitamasis 2
+DEBUG | 26/Aug/24 23:04:48|1 Uzduotis.py |33|  b kitamasis 3
+INFO | 26/Aug/24 23:04:48|1 Uzduotis.py |35| Baigiasi programa
+ERROR | 26/Aug/24 23:04:48|1 Uzduotis.py |42| Dalyba is nulio division by zero
+INFO | 26/Aug/24 23:05:12|1 Uzduotis.py |25| Prasideda programa
+WARNING | 26/Aug/24 23:05:12|1 Uzduotis.py |27| Atliekamas veiksas 1 + 2
+DEBUG | 26/Aug/24 23:05:12|1 Uzduotis.py |32|  a kitamasis 2
+DEBUG | 26/Aug/24 23:05:12|1 Uzduotis.py |33|  b kitamasis 3
+INFO | 26/Aug/24 23:05:12|1 Uzduotis.py |35| Baigiasi programa
+ERROR | 26/Aug/24 23:05:12|1 Uzduotis.py |42| Dalyba is nulio: Python aprasymas: division by zero
+INFO | 26/Aug/24 23:07:38|1 Uzduotis.py |25| Prasideda programa
+WARNING | 26/Aug/24 23:07:38|1 Uzduotis.py |27| Atliekamas veiksas 1 + 2
+DEBUG | 26/Aug/24 23:07:38|1 Uzduotis.py |32|  a kitamasis 2
+DEBUG | 26/Aug/24 23:07:38|1 Uzduotis.py |33|  b kitamasis 3
+INFO | 26/Aug/24 23:07:38|1 Uzduotis.py |35| Baigiasi programa
+ERROR | 26/Aug/24 23:07:38|1 Uzduotis.py |42| Dalyba is nulio: Python aprasymas: division by zero
+Traceback (most recent call last):
+  File "C:\Users\aurim\PycharmProjects\Code Academy\14 Uzduotis (Logging)\1 Uzduotis.py", line 40, in <module>
+    c = v / z
+        ~~^~~
+ZeroDivisionError: division by zero

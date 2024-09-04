@@ -21,3 +21,13 @@
 # Enter the annual interest rate (as a decimal): 0.05
 # Enter the time in years: 3
 # The amount after 3 years is 1157.63.
+
+def apr():
+    return final
+amount = int(input("Enter the principal amount: "))
+intrest = float(input("Enter the annual interest rate: "))
+years = int(input("Enter the time in years: "))
+
+final = amount * (1 + intrest * years)
+print(f"Final amount after {years} will be", final)
+
