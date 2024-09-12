@@ -16,7 +16,7 @@ def calc():
     except ValueError as e:
         raise TypeError("only numbers")
     symbol = input("Enter simbol: ")
-
+    breakpoint()
     if symbol == "+":
         result = num1 + num2
         return result
